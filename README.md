@@ -1,10 +1,13 @@
-<h2 align="center">Repositorio de Julio C. Melchor P.  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcmelchorp.jcmelchorp" alt="jcmelchorp" /></h2>
+<h2 align="center"> 
+   <i class="fab fa-github" style="color:rgb(252,109,38);" aria-hidden="true"></i>
+   Repositorio de Julio C. Melchor P.  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcmelchorp.jcmelchorp" alt="jcmelchorp" /></h2>
 
 
 <table align="center">
+   <caption>Find my resume on:</caption>
    <thead>
       <tr>
-        <th> Find my resume on <a href="https://jmelchorp.web.app/">jmelchorp</a>.</th>
+        <th> Static web page <a href="https://jmelchorp.web.app/">jmelchorp</a>.</th>
         <th> Extended on <a href="https://jcmelchorp.web.app/">jcmelchorp</a>.</th>
       </tr>
    </thead>
@@ -13,14 +16,14 @@
         <td>
           <div style="float:left;margin:0 auto">
             <a href="https://jcmelchorp.web.app/">
-              <img src="https://raw.githubusercontent.com/JulioMelchorPinto/jcmelchor/master/public/images/screenshot01.png" alt="jmelchorp" height="250"/>
+              <img src="https://raw.githubusercontent.com/JulioMelchorPinto/jcmelchor/master/public/images/screenshot01.png" alt="jmelchorp" height="200"/>
             </a>
           </div> 
         </td>
         <td>
           <div style="float:left;margin:0 auto">
             <a href="https://jcmelchorp.web.app/">
-              <img src="https://raw.githubusercontent.com/jcmelchorp/jcmelchorp_site/master/src/assets/screenshots/screenshot04.png" alt="jcmelchorp" height="250" /> 
+              <img src="https://raw.githubusercontent.com/jcmelchorp/jcmelchorp_site/master/src/assets/screenshots/screenshot04.png" alt="jcmelchorp" height="200" /> 
             </a>
           </div>
         </td>
@@ -37,3 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcmelchorp&theme=dark" alt="jcmelchorp" />
     </p>
 </details>
+
+[1]: https://jmelchorp.web.app/ "jmelchorp"
+[2]: https://jcmelchorp.web.app/ "jcmelchorp"
